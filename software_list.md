@@ -20,3 +20,7 @@
 ## Storage
 
 - Dropbox
+
+## PDF viewing/annotations
+
+- Okular
